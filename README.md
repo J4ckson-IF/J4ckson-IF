@@ -1,12 +1,15 @@
-# Olá! eu sou Jackson! 👋
+# Olá! Meu nome é Jackson! 👋
 
 ### 👨‍💻 Sobre mim
 Estudante de Informática do IFTO.
 Apaixonado por Tecnologia.
 Gosto de testar coisas novas, mas tenho um certo carinho por coisas antigas.
 
-- 🌱 Atualmente aprendendo HTML.
-- 🔭 Sei algumas coisas de Luau (modificação do Lua, otimizado para o Roblox).
+- 🌱 Atualmente aprendendo **HTML**.
+- 🔭 Conhecimento de Luau (modificação do Lua, otimizado para o Roblox).
+
+### 🛠 Tecnologias e Ferramentas
+![Minha Stack](https://skillicons.dev/icons?i=html,lua,vscode)
 
 <!--
 **J4ckson-IF/J4ckson-IF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
