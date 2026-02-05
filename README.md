@@ -9,7 +9,7 @@ Gosto de testar coisas novas, mas tenho um certo carinho por coisas antigas.
 - 🔭 Conhecimento de Luau (modificação do Lua, otimizado para o Roblox).
 
 ### 🛠 Tecnologias e Ferramentas
-![Minha Stack](https://skillicons.dev/icons?i=html,lua,vscode)
+![Minha Stack](https://skillicons.dev/icons?i=lua)
 
 <!--
 **J4ckson-IF/J4ckson-IF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
