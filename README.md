@@ -1,11 +1,11 @@
-# Olá! Meu nome é Jackson! 👋
+# Olá! Eu sou Jackson! 👋
 
 ### 👨‍💻 Sobre mim
 Estudante de Informática do IFTO.
 Apaixonado por Tecnologia.
 Gosto de testar coisas novas, mas tenho um certo carinho por coisas antigas.
 
-- 🌱 Atualmente aprendendo **HTML**.
+- 🌱 Atualmente aprendendo **Python & HTML**.
 - 🔭 Conhecimento de Luau (modificação do Lua, otimizado para o Roblox).
 
 ### 🛠 Tecnologias e Ferramentas
