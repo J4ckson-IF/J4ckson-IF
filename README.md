@@ -1,4 +1,12 @@
-## Hi there 👋
+# Olá! eu sou Jackson! 👋
+
+### 👨‍💻 Sobre mim
+Estudante de Informática do IFTO.
+Apaixonado por Tecnologia.
+Gosto de testar coisas novas, mas tenho um certo carinho por coisas antigas.
+
+- 🌱 Atualmente aprendendo HTML.
+- 🔭 Sei algumas coisas de Luau (modificação do Lua, otimizado para o Roblox).
 
 <!--
 **J4ckson-IF/J4ckson-IF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
