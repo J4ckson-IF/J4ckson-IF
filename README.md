@@ -10,6 +10,7 @@ Gosto de testar coisas novas, mas tenho um certo carinho por coisas antigas.
 
 ### 🛠 Tecnologias e Ferramentas
 ![Minha Stack](https://skillicons.dev/icons?i=lua)
+![Minha Stack](https://skillicons.dev/icons?i=html)
 
 <!--
 **J4ckson-IF/J4ckson-IF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
